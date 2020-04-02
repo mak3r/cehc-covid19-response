@@ -5,6 +5,10 @@ Content, documentation, files for assisting our region in the covid19 crisis
 ## The current 3d printable file we are using
 [*Download*](./Visor_Frame_NORTH_AMERICA_LETTER_v3.stl)
 
+## What material should I print with?
+PLA, PETG and ABS are the most common and all of them should be acceptable for this print.  
+
+
 ## The source of our content
 [Erik Cederberg 3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
 
