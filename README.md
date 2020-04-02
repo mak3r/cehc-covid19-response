@@ -1,7 +1,6 @@
 # cehc-covid19-response
 Content, documentation, files for assisting our region in the covid19 crisis
 
-# In a hurry?
 ## The current 3d printable file we are using
 * [View it in the browser](./Visor_Frame_NORTH_AMERICA_LETTER_v3.stl)
 * [*Download it*](https://github.com/mak3r/cehc-covid19-response/raw/master/Visor_Frame_NORTH_AMERICA_LETTER_v3.stl)
